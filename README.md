@@ -4,6 +4,8 @@ GlaphRAGを用いて、[円城塔「鉄道模型の夜」](https://www.aozora.gr
 以下のリンクから、colab上で実行できます。
 https://colab.research.google.com/github/kiotex/LAH-C655-DH-GlaphRAG/blob/main/GraphRAG2.ipynb
 
+# トラブルシューティング
+Neo4jのアクセスエラーが出たときは、データベースを削除して再作成すると大抵治ります。
 
 # License
 This project is licensed under the GPL 3.0 - see the LICENSE file for details.
